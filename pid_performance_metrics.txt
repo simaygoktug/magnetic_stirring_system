@@ -1,0 +1,5 @@
+--- PID Controller Performance Metrics ---
+Rise Time: 0.2156 seconds
+Overshoot: 0.00%
+Settling Time: 0.3571 seconds
+Steady-State Error: 0.0006

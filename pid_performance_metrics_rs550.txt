@@ -1,0 +1,5 @@
+--- RS-550 için PID Denetleyici Performans Metrikleri ---
+Yükselme Süresi: 0.0000 saniye
+Aşım: 0.00%
+Yerleşme Süresi: 0.0000 saniye
+Kalıcı Durum Hatası: 0.0001

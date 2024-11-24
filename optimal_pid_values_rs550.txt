@@ -1,0 +1,4 @@
+RS-550 Motoru için Optimal PID değerleri:
+Kp: 0.3000
+Ki: 0.0030
+Kd: 35.0300
